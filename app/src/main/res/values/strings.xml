@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Manager</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="select_shelflife">
+        <item>10天</item>
+        <item>20天</item>
+        <item>30天</item>
+        <item>60天</item>
+        <item>90天</item>
+        <item>120天</item>
+        <item>180天</item>
+        <item>210天</item>
+        <item>270天</item>
+        <item>365天</item>
+    </string-array>
+</resources>
