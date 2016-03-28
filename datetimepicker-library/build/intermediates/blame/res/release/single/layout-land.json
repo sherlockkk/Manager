@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/res/merged/release/layout-land/time_picker_dialog.xml",
-        "source": "/Users/qianlima/Downloads/Manager/datetimepicker-library/res/layout-land/time_picker_dialog.xml"
+        "merged": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/res/merged/release/layout-land/date_picker_dialog.xml",
+        "source": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/res/layout-land/date_picker_dialog.xml"
     },
     {
-        "merged": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/res/merged/release/layout-land/date_picker_dialog.xml",
-        "source": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/res/layout-land/date_picker_dialog.xml"
-    },
-    {
-        "merged": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/res/merged/release/layout-land/time_picker_dialog.xml",
-        "source": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/res/layout-land/time_picker_dialog.xml"
-    },
-    {
-        "merged": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/res/merged/release/layout-land/date_picker_dialog.xml",
-        "source": "/Users/qianlima/Downloads/Manager/datetimepicker-library/res/layout-land/date_picker_dialog.xml"
+        "merged": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/res/merged/release/layout-land/time_picker_dialog.xml",
+        "source": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/res/layout-land/time_picker_dialog.xml"
     }
 ]

@@ -1,26 +1,14 @@
 [
     {
-        "merged": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/date_picker_selector.xml",
-        "source": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/bundles/debug/res/color/date_picker_selector.xml"
+        "merged": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/done_text_color.xml",
+        "source": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/bundles/debug/res/color/done_text_color.xml"
     },
     {
-        "merged": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/date_picker_year_selector.xml",
-        "source": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/bundles/debug/res/color/date_picker_year_selector.xml"
+        "merged": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/date_picker_selector.xml",
+        "source": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/bundles/debug/res/color/date_picker_selector.xml"
     },
     {
-        "merged": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/done_text_color.xml",
-        "source": "/Users/qianlima/Downloads/Manager/datetimepicker-library/build/intermediates/bundles/debug/res/color/done_text_color.xml"
-    },
-    {
-        "merged": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/done_text_color.xml",
-        "source": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/bundles/debug/res/color/done_text_color.xml"
-    },
-    {
-        "merged": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/date_picker_selector.xml",
-        "source": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/bundles/debug/res/color/date_picker_selector.xml"
-    },
-    {
-        "merged": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/date_picker_year_selector.xml",
-        "source": "/Users/qianlima/AndroidStudioProjects/Snail/datetimepicker-library/build/intermediates/bundles/debug/res/color/date_picker_year_selector.xml"
+        "merged": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/res/merged/androidTest/debug/color/date_picker_year_selector.xml",
+        "source": "/Users/qianlima/AndroidStudioProjects/Manager/datetimepicker-library/build/intermediates/bundles/debug/res/color/date_picker_year_selector.xml"
     }
 ]
